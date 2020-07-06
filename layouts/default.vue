@@ -14,6 +14,7 @@
       <nuxt-link to="/officers" active-class="active" class="item">Officers</nuxt-link>
       <nuxt-link to="/partners" active-class="active" class="item">Partners</nuxt-link>
       <nuxt-link to="/calendar" active-class="active" class="item">Calendar</nuxt-link>
+      <nuxt-link to="/resources" active-class="active" class="item">Resources</nuxt-link>
       
       <sui-menu-item v-on:click="closeMenu()">
         Close <i class="close icon"></i>
@@ -35,6 +36,7 @@
           <nuxt-link to="/officers" active-class="active" class="item">Officers</nuxt-link>
           <nuxt-link to="/partners" active-class="active" class="item">Partners</nuxt-link>
           <nuxt-link to="/calendar" active-class="active" class="item">Calendar</nuxt-link>
+          <nuxt-link to="/resources" active-class="active" class="item">Resources</nuxt-link>
 
         </sui-menu>
       </div>
@@ -67,14 +69,17 @@
               <nuxt-link to="/officers" class="item">Officers</nuxt-link>
               <nuxt-link to="/partners" class="item">Partners</nuxt-link>
               <nuxt-link to="/calendar" class="item">Calendar</nuxt-link>
+              <nuxt-link to="/resources" class="item">Resources</nuxt-link>
             </div>
           </div>
 
           <div class="three wide column">
             <h4 class="ui inverted header"> Join the Community!</h4>
             <div class="ui inverted link list">
-              <a class="item" href="https://www.facebook.com/groups/ucrcyber/"><i class="icon facebook"></i> Facebook</a>
               <a class="item" href="https://ucrcyber.slack.com"><i class="icon slack"></i> Slack</a>
+              <a class="item" href="https://linkedin.com/company/cyberucr"><i class="icon linkedin"></i> LinkedIn</a>
+              <a class="item" href="https://www.facebook.com/groups/ucrcyber/"><i class="icon facebook"></i> Facebook</a>
+              <a class="item" href="http://eepurl.com/dIyKwH"><i class="icon mail"></i> Mailing List</a>
             </div>
           </div>
 
@@ -83,7 +88,7 @@
               Questions?
             </h4>
             <p>
-              Email <a href="mailto:contact@ucrcyber.org">contact@ucrcyber.org</a> if you have any questions.
+              Email <a href="mailto:cyberucr@gmail.com">cyberucr@gmail.com</a> if you have any questions.
             </p>
           </div>
         </div>

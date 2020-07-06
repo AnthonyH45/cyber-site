@@ -4,11 +4,13 @@
     <div class="ui middle aligned stackable grid container">
       <div class="row">
         <div class="eight wide left column">
-          <h3 class="ui header">General Meetings</h3>
-          <p>Cyber@UCR has biweekly general meetings from 11am-12pm in Bourns A265.
-            These meetings will cover anouncements, tech-talks, and guest speakers.
-            As well as demos demonstrating different vulnerabilities and defences.
-            We also host weekly workshops for our CCDC and CTF competitions.</p>
+          <h3 class="ui header">Meetings: Summer 2020</h3>
+          <!-- <p> General meetings cover announcements, defensive/offensive demos, tech-talks, and guest speakers. We also host weekly practices for Defensive and Offensive competitions! Anyone is free to join. Email <b> cyberucr@gmail.com </b> for more info. </p>  -->
+          <p> This summer we're hosting biweekly practices for Defensive and Offensive competitions and participating in Capture-the-Flag competitions. Anyone at UCR is free to join! Email <b> cyberucr@gmail.com </b> for more info. </p> 
+          <p>General Meetings: TBA</p>
+          <p>CCDC Meetings: Saturday Biweekly 10am-12pm</p>
+          <p>CPTC Meetings: Saturday Biweekly 1-2pm</p>	
+          <p>CTF: Check Calendar</p>	
         </div>
 
         <div class="eight wide right floated column">
